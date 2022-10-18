@@ -1,0 +1,9 @@
+{
+
+	"image": "hajdulord/agda:latest",
+	"extensions": [
+		"j-mueller.agda",
+		"banacorn.agda-mode"
+	]
+
+}
